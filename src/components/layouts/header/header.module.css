@@ -1,0 +1,45 @@
+.header{
+    border-bottom: 1px solid gray;
+    /* padding: 10px 0px !important; */
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.header__logo{
+    width: 50px;
+}
+.input__header{
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #f9dcc5;
+    padding: 7px;
+}
+.icon_search{
+    position: absolute;
+    top: 12px;
+    right: 5px;
+}
+
+.box-search{
+    width: 300px;
+    background: red;
+    max-height: 400px;
+    position: absolute;
+    top: 50px;
+    left: 0;
+    z-index: 20;
+    padding: 15px;
+}
+.box-cart{
+    width: 300px;
+    background: yellow;
+    position: absolute;
+    top: 70px;
+    right: 10px;
+    z-index: 20;
+}
+.avt{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}

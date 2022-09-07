@@ -1,0 +1,88 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "Áo",
+            "image": "data:image/png;base64,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"
+        },
+        {
+            "id": 2,
+            "name": "Quần Què",
+            "image": "https://cache.soichivang.com/pub/media/sm/megamenu/quan-jean.png"
+        }
+    ],
+    "product": [
+        {
+            "id": 1,
+            "name": "Áo giữ nhiệt nam dài tay có cổ cao và cổ tròn co dãn 4 chiều",
+            "price": "4.000",
+            "image": "https://yt3.ggpht.com/ytc/AKedOLQYdI9Fg3cGqm3wq-atFnre_YBLatgLm8M3eKu8=s900-c-k-c0x00ffffff-no-rj",
+            "category_id": 1
+        },
+        {
+            "id": 3,
+            "name": "z",
+            "price": "4.000",
+            "image": "https://yt3.ggpht.com/ytc/AKedOLQYdI9Fg3cGqm3wq-atFnre_YBLatgLm8M3eKu8=s900-c-k-c0x00ffffff-no-rj",
+            "category_id": 1
+        },
+        {
+            "id": 4,
+            "name": "Áo giữ nhiệt nam dài tay có cổ cao và cổ tròn co dãn 4 chiều",
+            "price": "4.000",
+            "image": "https://yt3.ggpht.com/ytc/AKedOLQYdI9Fg3cGqm3wq-atFnre_YBLatgLm8M3eKu8=s900-c-k-c0x00ffffff-no-rj",
+            "category_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Áo ",
+            "price": "4.000",
+            "image": "https://yt3.ggpht.com/ytc/AKedOLQYdI9Fg3cGqm3wq-atFnre_YBLatgLm8M3eKu8=s900-c-k-c0x00ffffff-no-rj",
+            "category_id": 1
+        },
+        {
+            "id": 6,
+            "name": "Áo giữ nhiệt nam dài tay có cổ cao và cổ tròn co dãn 4 chiều",
+            "price": "4.000",
+            "image": "https://yt3.ggpht.com/ytc/AKedOLQYdI9Fg3cGqm3wq-atFnre_YBLatgLm8M3eKu8=s900-c-k-c0x00ffffff-no-rj",
+            "category_id": 1
+        },
+        {
+            "id": 7,
+            "name": "Áo ",
+            "price": "4.000",
+            "image": "https://yt3.ggpht.com/ytc/AKedOLQYdI9Fg3cGqm3wq-atFnre_YBLatgLm8M3eKu8=s900-c-k-c0x00ffffff-no-rj",
+            "category_id": 1
+        },
+        {
+            "id": 8,
+            "name": "Áo giữ nhiệt nam dài tay có cổ cao và cổ tròn co dãn 4 chiều",
+            "price": "4.000",
+            "image": "https://yt3.ggpht.com/ytc/AKedOLQYdI9Fg3cGqm3wq-atFnre_YBLatgLm8M3eKu8=s900-c-k-c0x00ffffff-no-rj",
+            "category_id": 1
+        },
+        {
+            "id": 9,
+            "name": "Áo ",
+            "price": "4.000",
+            "image": "https://yt3.ggpht.com/ytc/AKedOLQYdI9Fg3cGqm3wq-atFnre_YBLatgLm8M3eKu8=s900-c-k-c0x00ffffff-no-rj",
+            "category_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Quần short,Quần ngố nam vải đũi (Loại Đẹp",
+            "price": "1.000",
+            "image": "https://yt3.ggpht.com/ytc/AKedOLQYdI9Fg3cGqm3wq-atFnre_YBLatgLm8M3eKu8=s900-c-k-c0x00ffffff-no-rj",
+            "category_id": 2
+        }
+    ],
+    "user": [
+        {
+            "id": 1,
+            "userName": "Thiện Tai",
+            "email": "mophat@gmail.com",
+            "password": "12345542"
+        }
+    ],
+    "blog": []
+}
